@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 3:14:50 AM On 5/6/2022
+
+Output: STEP 3D Model
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [REUN.468349.001_PSU_Board.PcbDoc]
+   Generated File[REUN.468349.001_PSU_Board_STEP_3D_Rev_0.1_[No Variations].step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 3:14:58 AM On 5/6/2022
