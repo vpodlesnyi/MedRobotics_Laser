@@ -15,9 +15,9 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=REUN.941613.002_Diode_Coagulator.OutJob
+Name=REUN.ONK.20.000_Work_Tool.OutJob
 Description=
-TargetOutputMedium=Schema electricheskaya soedineniy
+TargetOutputMedium=Schema structurnaya
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
@@ -29,18 +29,52 @@ OutputMedium1_Printer=
 OutputMedium1_PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium2=Schema electricheskaya soedineniy
 OutputMedium2_Type=Publish
+OutputMedium3=Schema functionalnaya
+OutputMedium3_Type=Publish
+OutputMedium4=Schema structurnaya
+OutputMedium4_Type=Publish
 OutputType1=Schematic Print
-OutputName1=Schematic Prints
+OutputName1=Schema electricheskaya soedineniy
 OutputCategory1=Documentation
-OutputDocumentPath1=[Project Physical Documents]
+OutputDocumentPath1=REUN.ONK.20.000_Work_Tool_E4.SchDoc
 OutputVariantName1=
-OutputEnabled1=1
+OutputEnabled1=0
 OutputEnabled1_OutputMedium1=0
 OutputEnabled1_OutputMedium2=1
+OutputEnabled1_OutputMedium3=0
+OutputEnabled1_OutputMedium4=0
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=D:\REUN.941613.001_Coagulator_Block\REUN.941613.002_Diode_Coagulator\Documents\SCH\REUN.941613.002 E4.SchDoc
+OutputType2=Schematic Print
+OutputName2=Schema functionalnaya
+OutputCategory2=Documentation
+OutputDocumentPath2=REUN.ONK.13.000_Electropanel_E2.SchDoc
+OutputVariantName2=
+OutputEnabled2=0
+OutputEnabled2_OutputMedium1=0
+OutputEnabled2_OutputMedium2=0
+OutputEnabled2_OutputMedium3=1
+OutputEnabled2_OutputMedium4=0
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration2_Name1=OutputConfigurationParameter1
+Configuration2_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\REUN.ONK.20.000_Work_Tool\SCH\REUN.ONK.13.000_Electropanel_E2.SchDoc
+OutputType3=Schematic Print
+OutputName3=Schema structurnaya
+OutputCategory3=Documentation
+OutputDocumentPath3=REUN.ONK.00.000_Onkorobot_E1.SchDoc
+OutputVariantName3=
+OutputEnabled3=1
+OutputEnabled3_OutputMedium1=0
+OutputEnabled3_OutputMedium2=0
+OutputEnabled3_OutputMedium3=0
+OutputEnabled3_OutputMedium4=1
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration3_Name1=OutputConfigurationParameter1
+Configuration3_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\REUN.ONK.20.000_Work_Tool\SCH\REUN.ONK.00.000_Onkorobot_E1.SchDoc
 
 [PublishSettings]
 OutputFilePath2=C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\REUN.ONK.20.000_Work_Tool\OUTPUT\Schema electricheskaya soedineniy\REUN.941613.002_Diode_Coagulator_E4.PDF
@@ -70,8 +104,66 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
+OutputFilePath3=C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\REUN.ONK.20.000_Work_Tool\OUTPUT\REUN.ONK.20.000_Work_Tool.PDF
+ReleaseManaged3=0
+OutputBasePath3=OUTPUT\
+OutputPathMedia3=[Media Name]
+OutputPathMediaValue3=
+OutputPathOutputer3=[Output Type]
+OutputPathOutputerPrefix3=
+OutputPathOutputerValue3=
+OutputFileName3=REUN.ONK.13.000_Electropanel_E2.PDF
+OutputFileNameMulti3=
+UseOutputNameForMulti3=0
+OutputFileNameSpecial3=
+OpenOutput3=1
+PromptOverwrite3=1
+PublishMethod3=0
+ZoomLevel3=50
+FitSCHPrintSizeToDoc3=1
+FitPCBPrintSizeToDoc3=1
+GenerateNetsInfo3=1
+MarkPins3=1
+MarkNetLabels3=1
+MarkPortsId3=1
+GenerateTOC3=1
+ShowComponentParameters3=1
+GlobalBookmarks3=0
+PDFACompliance3=Disabled
+PDFVersion3=Default
+OutputFilePath4=C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\REUN.ONK.20.000_Work_Tool\OUTPUT\REUN.ONK.20.000_Work_Tool.PDF
+ReleaseManaged4=0
+OutputBasePath4=OUTPUT\
+OutputPathMedia4=[Media Name]
+OutputPathMediaValue4=
+OutputPathOutputer4=[Output Type]
+OutputPathOutputerPrefix4=
+OutputPathOutputerValue4=
+OutputFileName4=REUN.ONK.00.000_Onkorobot_E1.PDF
+OutputFileNameMulti4=
+UseOutputNameForMulti4=0
+OutputFileNameSpecial4=
+OpenOutput4=1
+PromptOverwrite4=1
+PublishMethod4=0
+ZoomLevel4=50
+FitSCHPrintSizeToDoc4=1
+FitPCBPrintSizeToDoc4=1
+GenerateNetsInfo4=1
+MarkPins4=1
+MarkNetLabels4=1
+MarkPortsId4=1
+GenerateTOC4=1
+ShowComponentParameters4=1
+GlobalBookmarks4=0
+PDFACompliance4=Disabled
+PDFVersion4=Default
 
 [GeneratedFilesSettings]
 RelativeOutputPath2=C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\REUN.ONK.20.000_Work_Tool\OUTPUT\Schema electricheskaya soedineniy\REUN.941613.002_Diode_Coagulator_E4.PDF
 OpenOutputs2=1
+RelativeOutputPath3=C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\REUN.ONK.20.000_Work_Tool\OUTPUT\REUN.ONK.20.000_Work_Tool.PDF
+OpenOutputs3=1
+RelativeOutputPath4=C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\REUN.ONK.20.000_Work_Tool\OUTPUT\REUN.ONK.20.000_Work_Tool.PDF
+OpenOutputs4=1
 
