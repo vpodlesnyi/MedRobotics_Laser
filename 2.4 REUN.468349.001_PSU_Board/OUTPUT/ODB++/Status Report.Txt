@@ -1,0 +1,40 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 15:43:24 On 10.04.2023
+
+Output: ODB++ Files
+Type  : ODB
+From  : Variant [[No Variations]] of PCB Document [REUN.468349.001_PSU_Board.PcbDoc]
+   Generated File[profile]
+   Generated File[stephdr]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[features]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[components]
+   Generated File[features]
+   Generated File[components]
+   Generated File[data]
+   Generated File[netlist]
+   Generated File[matrix]
+   Generated File[REUN.468349.001_PSU_Board.REP]
+
+
+Files Generated   : 27
+Documents Printed : 0
+
+Finished Output Generation At 15:43:29 On 10.04.2023

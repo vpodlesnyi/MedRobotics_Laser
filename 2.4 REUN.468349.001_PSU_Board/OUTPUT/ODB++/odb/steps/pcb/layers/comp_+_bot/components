@@ -1,0 +1,719 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 12 -14.66026278 -6.72710364 270 N R19 Resistor_0,125_ò ;0=1,1=0.0000
+PRP Accuracy '0.01'
+PRP id 'res49'
+PRP Manufacture 'Yageo'
+PRP Part_Name 'Resistor'
+PRP Part_Number 'RC0805FR-07100RL'
+PRP Power '0,125Âò'
+PRP Value '100'
+TOP 0 -14.66026278 -7.7346048 0 N 54 1 1
+TOP 1 -14.66026278 -5.71960248 0 N 65 2 2
+#
+# CMP 1
+CMP 12 -25.05241624 1.26531624 0 N R39 Resistor_0,125_ò ;0=1,1=0.0000
+PRP Accuracy '0.01'
+PRP id 'res49'
+PRP Manufacture 'Yageo'
+PRP Part_Name 'Resistor'
+PRP Part_Number 'RC0805FR-070RL'
+PRP Power '0,125Âò'
+PRP Value '0'
+TOP 0 -24.04491508 1.26531624 270 N 2 0 1
+TOP 1 -26.0599174 1.26531624 270 N 68 3 2
+#
+# CMP 2
+CMP 12 -7.05206108 1.33473698 0 N R38 Resistor_0,125_ò ;0=1,1=0.0000
+PRP Accuracy '0.01'
+PRP id 'res49'
+PRP Manufacture 'Yageo'
+PRP Part_Name 'Resistor'
+PRP Part_Number 'RC0805FR-070RL'
+PRP Power '0,125Âò'
+PRP Value '0'
+TOP 0 -6.04455992 1.33473698 270 N 3 0 1
+TOP 1 -8.05956224 1.33473698 270 N 68 4 2
+#
+# CMP 3
+CMP 12 13.0784092 1.10674404 0 N R27 Resistor_0,125_ò ;0=1,1=0.0000
+PRP Accuracy '0.01'
+PRP id 'res49'
+PRP Manufacture 'Yageo'
+PRP Part_Name 'Resistor'
+PRP Part_Number 'RC0805FR-070RL'
+PRP Power '0,125Âò'
+PRP Value '0'
+TOP 0 14.08591036 1.10674404 270 N 4 0 1
+TOP 1 12.07090804 1.10674404 270 N 68 5 2
+#
+# CMP 4
+CMP 12 31.9727834 1.33668262 0 N R26 Resistor_0,125_ò ;0=1,1=0.0000
+PRP Accuracy '0.01'
+PRP id 'res49'
+PRP Manufacture 'Yageo'
+PRP Part_Name 'Resistor'
+PRP Part_Number 'RC0805FR-070RL'
+PRP Power '0,125Âò'
+PRP Value '0'
+TOP 0 32.98028456 1.33668262 270 N 5 0 1
+TOP 1 30.96528224 1.33668262 270 N 68 6 2
+#
+# CMP 5
+CMP 0 -20.79924974 5.52851574 90 N C10 0,1_ê ;0=1,1=1.3000
+PRP id 'cap141'
+PRP Manufacture 'Murata'
+PRP Part_Name 'Ceramic'
+PRP Part_Number 'GRM21BR71H104KA01K'
+PRP TKE 'X7R'
+PRP Value '0,1ìê'
+PRP Voltage '50B'
+TOP 0 -20.79924974 6.37351532 90 N 48 33 1
+TOP 1 -20.79924974 4.68351616 90 N 6 0 2
+#
+# CMP 6
+CMP 19 -6.52493742 -46.32996322 90 N VD14 PESD5V0L1BA,115 ;0=1,1=0.0000
+PRP Breakdown_Voltage '8,2B'
+PRP Clamping_Voltage '10B'
+PRP id 'tvs286'
+PRP Leakage_Current '1uA'
+PRP Manufacture 'Nexperia'
+PRP Number_of_diodes '1'
+PRP Part_Name 'TVS diode Bidirectional'
+PRP Part_Number 'PESD5V0L1BA,115'
+PRP Peak_Pulse_Power '500W'
+PRP Stand-off_Voltage '5B'
+TOP 0 -6.52493742 -45.29996274 270 N 53 0 1
+TOP 1 -6.52493742 -47.3599637 270 N 48 28 2
+#
+# CMP 7
+CMP 19 0.07384034 -46.32996322 90 N VD13 PESD5V0L1BA,115 ;0=1,1=0.0000
+PRP Breakdown_Voltage '8,2B'
+PRP Clamping_Voltage '10B'
+PRP id 'tvs286'
+PRP Leakage_Current '1uA'
+PRP Manufacture 'Nexperia'
+PRP Number_of_diodes '1'
+PRP Part_Name 'TVS diode Bidirectional'
+PRP Part_Number 'PESD5V0L1BA,115'
+PRP Peak_Pulse_Power '500W'
+PRP Stand-off_Voltage '5B'
+TOP 0 0.07384034 -45.29996274 270 N 54 0 1
+TOP 1 0.07384034 -47.3599637 270 N 48 29 2
+#
+# CMP 8
+CMP 12 -17.7343816 7.12495654 180 N R22 Resistor_0,125_ò ;0=1,1=0.0000
+PRP Accuracy '0.01'
+PRP id 'res101'
+PRP Manufacture 'Yageo'
+PRP Part_Name 'Resistor'
+PRP Part_Number 'RC0805FR-0710KL'
+PRP Power '0,125Âò'
+PRP Value '10ê'
+TOP 0 -18.74188276 7.12495654 90 N 7 0 1
+TOP 1 -16.72688044 7.12495654 90 N 76 10 2
+#
+# CMP 9
+CMP 12 -17.7343816 4.82351588 180 N R24 Resistor_0,125_ò ;0=1,1=0.0000
+PRP Accuracy '0.01'
+PRP id 'res125'
+PRP Manufacture 'Yageo'
+PRP Part_Name 'Resistor'
+PRP Part_Number 'RC0805FR-07100KL'
+PRP Power '0,125Âò'
+PRP Value '100ê'
+TOP 0 -18.74188276 4.82351588 90 N 6 1 1
+TOP 1 -16.72688044 4.82351588 90 N 76 5 2
+#
+# CMP 10
+CMP 18 -0.51662838 4.22705276 270 N DD3 SN74HC125DR ;0=1,1=1.7500
+PRP id 'logic16'
+PRP Input_High_Level '1,75B'
+PRP Input_Low_Level '1,55B'
+PRP Manufacture 'Nexperia'
+PRP Number_of_Elements '4'
+PRP Output_High_Level '3,3B'
+PRP Output_Low_Level '0,1B'
+PRP Part_Name 'Quad Tri-State Buffer'
+PRP Part_Number 'SN74HC125DR'
+PRP Power_Supply '2Â-6Â'
+PRP Temperature '-40...+125'
+PRP Toff '41ns'
+PRP Ton '41ns'
+PRP Type_of_Logic '3V3 CMOS'
+TOP 0 3.29337162 1.80205634 0 N 64 1 1
+TOP 1 2.02337162 1.80205634 0 N 45 1 2
+TOP 2 0.75337162 1.80205634 0 N 17 0 3
+TOP 3 -0.51662838 1.80205634 0 N 64 2 4
+TOP 4 -1.78662838 1.80205634 0 N 38 1 5
+TOP 5 -3.05662838 1.80205634 0 N 16 0 6
+TOP 6 -4.32662838 1.80205634 0 N 48 36 7
+TOP 7 -4.32662838 6.65204918 0 N 0 5 8
+TOP 8 -3.05662838 6.65204918 0 N 0 4 9
+TOP 9 -1.78662838 6.65204918 0 N 0 3 10
+TOP 10 -0.51662838 6.65204918 0 N 0 2 11
+TOP 11 0.75337162 6.65204918 0 N 0 1 12
+TOP 12 2.02337162 6.65204918 0 N 0 0 13
+TOP 13 3.29337162 6.65204918 0 N 76 4 14
+#
+# CMP 11
+CMP 12 -3.14162694 -1.24997718 180 N R18 Resistor_0,125_ò ;0=1,1=0.0000
+PRP Accuracy '0.01'
+PRP id 'res101'
+PRP Manufacture 'Yageo'
+PRP Part_Name 'Resistor'
+PRP Part_Number 'RC0805FR-0710KL'
+PRP Power '0,125Âò'
+PRP Value '10ê'
+TOP 0 -4.1491281 -1.24997718 90 N 38 2 1
+TOP 1 -2.13412578 -1.24997718 90 N 48 37 2
+#
+# CMP 12
+CMP 12 2.69587726 -1.24997718 180 N R17 Resistor_0,125_ò ;0=1,1=0.0000
+PRP Accuracy '0.01'
+PRP id 'res101'
+PRP Manufacture 'Yageo'
+PRP Part_Name 'Resistor'
+PRP Part_Number 'RC0805FR-0710KL'
+PRP Power '0,125Âò'
+PRP Value '10ê'
+TOP 0 1.6883761 -1.24997718 90 N 45 2 1
+TOP 1 3.70337842 -1.24997718 90 N 48 38 2
+#
+# CMP 13
+CMP 6 -29.70000918 -37.62847948 90 N FU4 Fuse ;0=1,1=1.1200
+PRP I_hold '0,5A'
+PRP I_max '100A'
+PRP I_trip '1A'
+PRP id 'fuse8'
+PRP Manufacture 'Bourns'
+PRP Part_Name 'Resettable Fuses'
+PRP Part_Number 'MF-MSMF050'
+PRP Resistance '0,15Ohms'
+PRP V_max '15B'
+TOP 0 -29.70000918 -35.5284786 90 N 41 0 1
+TOP 1 -29.70000918 -39.72848036 90 N 40 0 2
+#
+# CMP 14
+CMP 6 29.86153794 -37.62847948 90 N FU3 Fuse ;0=1,1=1.1200
+PRP I_hold '0,5A'
+PRP I_max '100A'
+PRP I_trip '1A'
+PRP id 'fuse8'
+PRP Manufacture 'Bourns'
+PRP Part_Name 'Resettable Fuses'
+PRP Part_Number 'MF-MSMF050'
+PRP Resistance '0,15Ohms'
+PRP V_max '15B'
+TOP 0 29.86153794 -35.5284786 90 N 43 1 1
+TOP 1 29.86153794 -39.72848036 90 N 42 0 2
+#
+# CMP 15
+CMP 14 33.55597302 -34.30583944 270 N VD11 SMAJ24A ;0=1,1=2.6700
+PRP Breakdown_Voltage '28,1B'
+PRP Clamping_Voltage '38,9B'
+PRP Dynamic_resistance '0,912Ohm'
+PRP id 'tvs134'
+PRP Leakage_Current '0,2uA'
+PRP Manufacture 'ST Microelectronics'
+PRP Number_of_diodes '1'
+PRP Part_Name 'TVS diode Unidirectional'
+PRP Part_Number 'SMAJ24A'
+PRP Peak_Pulse_Power '400W'
+PRP Stand-off_Voltage '24B'
+TOP 0 33.55597302 -36.18583822 0 N 43 2 1
+TOP 1 33.55597302 -32.42584066 0 N 48 25 2
+#
+# CMP 16
+CMP 14 -33.42901874 -34.30583944 270 N VD12 SMAJ24A ;0=1,1=2.6700
+PRP Breakdown_Voltage '28,1B'
+PRP Clamping_Voltage '38,9B'
+PRP Dynamic_resistance '0,912Ohm'
+PRP id 'tvs134'
+PRP Leakage_Current '0,2uA'
+PRP Manufacture 'ST Microelectronics'
+PRP Number_of_diodes '1'
+PRP Part_Name 'TVS diode Unidirectional'
+PRP Part_Number 'SMAJ24A'
+PRP Peak_Pulse_Power '400W'
+PRP Stand-off_Voltage '24B'
+TOP 0 -33.42901874 -36.18583822 0 N 41 1 1
+TOP 1 -33.42901874 -32.42584066 0 N 48 26 2
+#
+# CMP 17
+CMP 20 -3.11913016 -4.64847686 180 N VT4 BSH103,215 ;0=1,1=1.1200
+PRP Continuous_drain_current '0,85A'
+PRP Gate-to-source_voltage '(+-)8B'
+PRP id 'mosfert36'
+PRP Manufacturer 'Nexperia'
+PRP Part_Number 'BSH103,215'
+PRP Power_Dissipation '0,5W'
+PRP Pulsed_drain_current '3,4A'
+PRP Rds '0,5Ohm'
+PRP Structure 'n-channel'
+PRP Total_gate_charge '2100pC'
+PRP V_drain-source_max '30B'
+TOP 0 -4.0691308 -3.44847418 180 N 38 0 1
+TOP 1 -2.16912952 -3.44847672 180 N 48 35 2
+TOP 2 -3.11913016 -5.64848502 180 N 41 2 3
+#
+# CMP 18
+CMP 20 2.71837404 -4.64847686 180 N VT3 BSH103,215 ;0=1,1=1.1200
+PRP Continuous_drain_current '0,85A'
+PRP Gate-to-source_voltage '(+-)8B'
+PRP id 'mosfert36'
+PRP Manufacturer 'Nexperia'
+PRP Part_Number 'BSH103,215'
+PRP Power_Dissipation '0,5W'
+PRP Pulsed_drain_current '3,4A'
+PRP Rds '0,5Ohm'
+PRP Structure 'n-channel'
+PRP Total_gate_charge '2100pC'
+PRP V_drain-source_max '30B'
+TOP 0 1.7683734 -3.44847418 180 N 45 0 1
+TOP 1 3.66837468 -3.44847672 180 N 48 20 2
+TOP 2 2.71837404 -5.64848502 180 N 43 0 3
+#
+# CMP 19
+CMP 15 -22.61300532 41.92154684 180 N VD27 SMBJ12A ;0=1,1=2.6700
+PRP Breakdown_Voltage '14B'
+PRP Clamping_Voltage '19,9B'
+PRP Dynamic_resistance '0,168Ohm'
+PRP id 'tvs73'
+PRP Leakage_Current '0,2uA'
+PRP Manufacture 'ST Microelectronics'
+PRP Number_of_diodes '1'
+PRP Part_Name 'TVS diode Unidirectional'
+PRP Part_Number 'SMBJ12A'
+PRP Peak_Pulse_Power '600W'
+PRP Stand-off_Voltage '12B'
+TOP 0 -24.4930041 41.92154684 90 N 73 2 1
+TOP 1 -20.73300654 41.92154684 90 N 48 27 2
+#
+# CMP 20
+CMP 15 -7.55300496 41.92154684 180 N VD26 SMBJ12A ;0=1,1=2.6700
+PRP Breakdown_Voltage '14B'
+PRP Clamping_Voltage '19,9B'
+PRP Dynamic_resistance '0,168Ohm'
+PRP id 'tvs73'
+PRP Leakage_Current '0,2uA'
+PRP Manufacture 'ST Microelectronics'
+PRP Number_of_diodes '1'
+PRP Part_Name 'TVS diode Unidirectional'
+PRP Part_Number 'SMBJ12A'
+PRP Peak_Pulse_Power '600W'
+PRP Stand-off_Voltage '12B'
+TOP 0 -9.43300374 41.92154684 90 N 72 2 1
+TOP 1 -5.67300618 41.92154684 90 N 48 17 2
+#
+# CMP 21
+CMP 15 7.24974674 41.92154684 180 N VD21 SMBJ5.A ;0=1,1=2.6700
+PRP Breakdown_Voltage '6,74B'
+PRP Clamping_Voltage '9,2B'
+PRP Dynamic_resistance '0,031Ohm'
+PRP id 'tvs68'
+PRP Leakage_Current '20uA'
+PRP Manufacture 'ST Microelectronics'
+PRP Number_of_diodes '1'
+PRP Part_Name 'TVS diode Unidirectional'
+PRP Part_Number 'SMBJ5.A'
+PRP Peak_Pulse_Power '600W'
+PRP Stand-off_Voltage '5B'
+TOP 0 5.36974796 41.92154684 90 N 74 2 1
+TOP 1 9.12974552 41.92154684 90 N 48 15 2
+#
+# CMP 22
+CMP 15 22.30996808 41.92154684 180 N VD20 SMBJ5.A ;0=1,1=2.6700
+PRP Breakdown_Voltage '6,74B'
+PRP Clamping_Voltage '9,2B'
+PRP Dynamic_resistance '0,031Ohm'
+PRP id 'tvs68'
+PRP Leakage_Current '20uA'
+PRP Manufacture 'ST Microelectronics'
+PRP Number_of_diodes '1'
+PRP Part_Name 'TVS diode Unidirectional'
+PRP Part_Number 'SMBJ5.A'
+PRP Peak_Pulse_Power '600W'
+PRP Stand-off_Voltage '5B'
+TOP 0 20.4299693 41.92154684 90 N 75 2 1
+TOP 1 24.18996686 41.92154684 90 N 48 16 2
+#
+# CMP 23
+CMP 16 16.5204775 -28.66728328 90 N VD2 SM15T36A ;0=1,1=2.6700
+PRP Breakdown_Voltage '36B'
+PRP Clamping_Voltage '37.8B'
+PRP id 'tvs258'
+PRP Leakage_Current '0.2uA'
+PRP Manufacture 'ST Microelectronics'
+PRP Number_of_diodes '1'
+PRP Part_Name 'TVS diode Unidirectional'
+PRP Part_Number 'SM15T36A'
+PRP Peak_Pulse_Power '1500W'
+PRP Stand-off_Voltage '34.2B'
+TOP 0 16.5204775 -25.34228358 180 N 69 3 1
+TOP 1 16.5204775 -31.99228298 180 N 48 22 2
+#
+# CMP 24
+CMP 21 -18.5041032 1.74319438 0 N DD4 LTC2954ITS8-2 ;0=1,1=1.1200
+PRP id 'btn11'
+PRP Manufacture 'Analog Devices'
+PRP Part_Name 'Pushbutton On/Off Controller'
+PRP Part_Number 'LTC2954ITS8-2'
+TOP 0 -17.20410326 2.7181937 270 N 76 14 1
+TOP 1 -17.20410326 2.068195 270 N 65 3 2
+TOP 2 -17.20410326 1.41819376 270 N 0 7 3
+TOP 3 -17.20410326 0.76819506 270 N 48 47 4
+TOP 4 -19.80410314 0.76819506 270 N 7 1 5
+TOP 5 -19.80410314 1.41819376 270 N 64 5 6
+TOP 6 -19.80410314 2.068195 270 N 0 6 7
+TOP 7 -19.80410314 2.7181937 270 N 6 2 8
+#
+# CMP 25
+CMP 12 -26.45850182 10.6529632 0 N R43 Resistor_0,125_ò ;0=1,1=0.0000
+PRP Accuracy '0.01'
+PRP id 'res1173'
+PRP Manufacture 'Yageo'
+PRP Part_Name 'Resistor'
+PRP Part_Number 'RC0805FR-0723K7L'
+PRP Power '0,125Âò'
+PRP Value '23,7ê'
+TOP 0 -25.45100066 10.6529632 270 N 58 1 1
+TOP 1 -27.46600298 10.6529632 270 N 21 0 2
+#
+# CMP 26
+CMP 12 -7.0177152 10.6529632 0 N R42 Resistor_0,125_ò ;0=1,1=0.0000
+PRP Accuracy '0.01'
+PRP id 'res1173'
+PRP Manufacture 'Yageo'
+PRP Part_Name 'Resistor'
+PRP Part_Number 'RC0805FR-0723K7L'
+PRP Power '0,125Âò'
+PRP Value '23,7ê'
+TOP 0 -6.01021404 10.6529632 270 N 60 1 1
+TOP 1 -8.02521636 10.6529632 270 N 23 0 2
+#
+# CMP 27
+CMP 12 12.47635046 10.6478451 0 N R31 Resistor_0,125_ò ;0=1,1=0.0000
+PRP Accuracy '0.01'
+PRP id 'res1186'
+PRP Manufacture 'Yageo'
+PRP Part_Name 'Resistor'
+PRP Part_Number 'RC0805FR-0716K9L'
+PRP Power '0,125Âò'
+PRP Value '16,9ê'
+TOP 0 13.48385162 10.6478451 270 N 25 1 1
+TOP 1 11.4688493 10.6478451 270 N 26 0 2
+#
+# CMP 28
+CMP 12 31.96820378 10.6478451 0 N R30 Resistor_0,125_ò ;0=1,1=0.0000
+PRP Accuracy '0.01'
+PRP id 'res1186'
+PRP Manufacture 'Yageo'
+PRP Part_Name 'Resistor'
+PRP Part_Number 'RC0805FR-0716K9L'
+PRP Power '0,125Âò'
+PRP Value '16,9ê'
+TOP 0 32.97570494 10.6478451 270 N 28 1 1
+TOP 1 30.96070262 10.6478451 270 N 29 0 2
+#
+# CMP 29
+CMP 12 -24.77572134 -4.3408346 270 N R21 Resistor_0,125_ò ;0=1,1=0.0000
+PRP Accuracy '0.01'
+PRP id 'res49'
+PRP Manufacture 'Yageo'
+PRP Part_Name 'Resistor'
+PRP Part_Number 'RC0805FR-07100RL'
+PRP Power '0,125Âò'
+PRP Value '100'
+TOP 0 -24.77572134 -5.34833576 0 N 53 1 1
+TOP 1 -24.77572134 -3.33333344 0 N 64 3 2
+#
+# CMP 30
+CMP 12 -21.59409956 -3.4908363 180 N R23 Resistor_0,125_ò ;0=1,1=0.0000
+PRP Accuracy '0.01'
+PRP id 'res101'
+PRP Manufacture 'Yageo'
+PRP Part_Name 'Resistor'
+PRP Part_Number 'RC0805FR-0710KL'
+PRP Power '0,125Âò'
+PRP Value '10ê'
+TOP 0 -22.60160072 -3.4908363 90 N 64 4 1
+TOP 1 -20.5865984 -3.4908363 90 N 76 6 2
+#
+# CMP 31
+CMP 12 -15.4852624 -3.4908363 180 N R20 Resistor_0,125_ò ;0=1,1=0.0000
+PRP Accuracy '0.01'
+PRP id 'res101'
+PRP Manufacture 'Yageo'
+PRP Part_Name 'Resistor'
+PRP Part_Number 'RC0805FR-0710KL'
+PRP Power '0,125Âò'
+PRP Value '10ê'
+TOP 0 -16.49276356 -3.4908363 90 N 65 1 1
+TOP 1 -14.47776124 -3.4908363 90 N 76 7 2
+#
+# CMP 32
+CMP 12 8.68471212 -1.27497586 180 N R4 Resistor_0,125_ò ;0=1,1=0.0000
+PRP Accuracy '0.01'
+PRP id 'res101'
+PRP Manufacture 'Yageo'
+PRP Part_Name 'Resistor'
+PRP Part_Number 'RC0805FR-0710KL'
+PRP Power '0,125Âò'
+PRP Value '10ê'
+TOP 0 7.67721096 -1.27497586 90 N 48 39 1
+TOP 1 9.69221328 -1.27497586 90 N 19 0 2
+#
+# CMP 33
+CMP 12 8.7597107 -3.71583458 0 N R6 Resistor_0,125_ò ;0=1,1=0.0000
+PRP Accuracy '0.01'
+PRP id 'res101'
+PRP Manufacture 'Yageo'
+PRP Part_Name 'Resistor'
+PRP Part_Number 'RC0805FR-0710KL'
+PRP Power '0,125Âò'
+PRP Value '10ê'
+TOP 0 9.76721186 -3.71583458 270 N 76 9 1
+TOP 1 7.75220954 -3.71583458 270 N 18 0 2
+#
+# CMP 34
+CMP 12 8.68471212 1.12877092 180 N R2 Resistor_0,125_ò ;0=1,1=0.0000
+PRP Accuracy '0.01'
+PRP id 'res49'
+PRP Manufacture 'Yageo'
+PRP Part_Name 'Resistor'
+PRP Part_Number 'RC0805FR-07100RL'
+PRP Power '0,125Âò'
+PRP Value '100'
+TOP 0 7.67721096 1.12877092 90 N 16 1 1
+TOP 1 9.69221328 1.12877092 90 N 19 1 2
+#
+# CMP 35
+CMP 12 -9.42744622 -3.4908363 180 N R3 Resistor_0,125_ò ;0=1,1=0.0000
+PRP Accuracy '0.01'
+PRP id 'res101'
+PRP Manufacture 'Yageo'
+PRP Part_Name 'Resistor'
+PRP Part_Number 'RC0805FR-0710KL'
+PRP Power '0,125Âò'
+PRP Value '10ê'
+TOP 0 -10.43494738 -3.4908363 90 N 48 40 1
+TOP 1 -8.41994506 -3.4908363 90 N 57 0 2
+#
+# CMP 36
+CMP 12 -9.42744622 -1.08776008 180 N R5 Resistor_0,125_ò ;0=1,1=0.0000
+PRP Accuracy '0.01'
+PRP id 'res101'
+PRP Manufacture 'Yageo'
+PRP Part_Name 'Resistor'
+PRP Part_Number 'RC0805FR-0710KL'
+PRP Power '0,125Âò'
+PRP Value '10ê'
+TOP 0 -10.43494738 -1.08776008 90 N 76 8 1
+TOP 1 -8.41994506 -1.08776008 90 N 20 0 2
+#
+# CMP 37
+CMP 12 -9.42744622 -5.84391008 180 N R1 Resistor_0,125_ò ;0=1,1=0.0000
+PRP Accuracy '0.01'
+PRP id 'res49'
+PRP Manufacture 'Yageo'
+PRP Part_Name 'Resistor'
+PRP Part_Number 'RC0805FR-07100RL'
+PRP Power '0,125Âò'
+PRP Value '100'
+TOP 0 -10.43494738 -5.84391008 90 N 17 1 1
+TOP 1 -8.41994506 -5.84391008 90 N 57 1 2
+#
+# CMP 38
+CMP 22 -5.03214894 -29.880179 0 N DA1 L78L33ABUTR ;0=1,1=0.0000
+PRP Current '100mA'
+PRP Dropout_Voltage '2V'
+PRP id 'pwr180'
+PRP Input_Voltage '30B'
+PRP Manufacturer 'ST Microelectronics'
+PRP Output_Voltage '3,3B'
+PRP Part_Name 'Positive voltage regulators'
+PRP Part_Number 'L78L33ABUTR'
+PRP Quiescent_current '6mA'
+PRP Type 'Linear'
+TOP 0 -3.5321494 -31.48018088 180 N 76 11 1
+TOP 1 -5.03214894 -28.7594548 180 N 48 41 2
+TOP 2 -5.03214894 -31.48018088 180 N 48 42 2
+TOP 3 -6.53214848 -31.48018088 180 N 47 3 3
+#
+# CMP 39
+CMP 0 -0.57821322 -29.10687854 0 N C15 0,1_ê ;0=1,1=1.3000
+PRP id 'cap141'
+PRP Manufacture 'Murata'
+PRP Part_Name 'Ceramic'
+PRP Part_Number 'GRM21BR71H104KA01K'
+PRP TKE 'X7R'
+PRP Value '0,1ìê'
+PRP Voltage '50B'
+TOP 0 0.26678636 -29.10687854 180 N 48 43 1
+TOP 1 -1.4232128 -29.10687854 180 N 76 12 2
+#
+# CMP 40
+CMP 0 -0.57821322 -31.52132634 0 N C14 1_ê ;0=1,1=1.3000
+PRP id 'cap151'
+PRP Manufacture 'Murata'
+PRP Part_Name 'Ceramic'
+PRP Part_Number 'GRM21BR71H105KA12L'
+PRP TKE 'X7R'
+PRP Value '1ìê'
+PRP Voltage '50B'
+TOP 0 0.26678636 -31.52132634 180 N 48 45 1
+TOP 1 -1.4232128 -31.52132634 180 N 76 13 2
+#
+# CMP 41
+CMP 0 -9.4652973 -31.52132634 0 N C13 0,15_ê ;0=1,1=1.3000
+PRP id 'cap142'
+PRP Manufacture 'Murata'
+PRP Part_Name 'Ceramic'
+PRP Part_Number 'GRM21BR71H154K'
+PRP TKE 'X7R'
+PRP Value '0,15ìê'
+PRP Voltage '50B'
+TOP 0 -8.62029772 -31.52132634 180 N 47 5 1
+TOP 1 -10.31029688 -31.52132634 180 N 48 46 2
+#
+# CMP 42
+CMP 0 -9.4652973 -29.10687854 0 N C12 0,15_ê ;0=1,1=1.3000
+PRP id 'cap142'
+PRP Manufacture 'Murata'
+PRP Part_Name 'Ceramic'
+PRP Part_Number 'GRM21BR71H154K'
+PRP TKE 'X7R'
+PRP Value '0,15ìê'
+PRP Voltage '50B'
+TOP 0 -8.62029772 -29.10687854 180 N 47 4 1
+TOP 1 -10.31029688 -29.10687854 180 N 48 44 2
+#
+# CMP 43
+CMP 0 -22.65638852 10.67796188 0 N C53 8200 ;0=1,1=1.3000
+PRP id 'cap171'
+PRP Manufacture 'Murata'
+PRP Part_Name 'Ceramic'
+PRP Part_Number 'GRM216R71H822KA01D'
+PRP TKE 'X7R'
+PRP Value '8200'
+PRP Voltage '50Â'
+TOP 0 -21.81138894 10.67796188 180 N 48 14 1
+TOP 1 -23.5013881 10.67796188 180 N 58 0 2
+#
+# CMP 44
+CMP 0 -3.27595484 10.67796188 0 N C52 8200 ;0=1,1=1.3000
+PRP id 'cap171'
+PRP Manufacture 'Murata'
+PRP Part_Name 'Ceramic'
+PRP Part_Number 'GRM216R71H822KA01D'
+PRP TKE 'X7R'
+PRP Value '8200'
+PRP Voltage '50Â'
+TOP 0 -2.43095526 10.67796188 180 N 48 21 1
+TOP 1 -4.12095442 10.67796188 180 N 60 0 2
+#
+# CMP 45
+CMP 0 16.30335068 10.6489246 0 N C27 4700 ;0=1,1=1.3000
+PRP id 'cap354'
+PRP Manufacture 'Yageo'
+PRP Part_Name 'Ceramic'
+PRP Part_Number 'CC0805KRX7R9BB472'
+PRP tga '0.10%'
+PRP TKE 'X7R'
+PRP Value '4700'
+PRP Voltage '50B'
+TOP 0 17.14835026 10.6489246 180 N 48 23 1
+TOP 1 15.4583511 10.6489246 180 N 25 0 2
+#
+# CMP 46
+CMP 0 35.75975068 10.66034444 0 N C26 4700 ;0=1,1=1.3000
+PRP id 'cap354'
+PRP Manufacture 'Yageo'
+PRP Part_Name 'Ceramic'
+PRP Part_Number 'CC0805KRX7R9BB472'
+PRP tga '0.10%'
+PRP TKE 'X7R'
+PRP Value '4700'
+PRP Voltage '50B'
+TOP 0 36.60475026 10.66034444 180 N 48 24 1
+TOP 1 34.9147511 10.66034444 180 N 28 0 2
+#
+# CMP 47
+CMP 0 -21.55660154 -1.10025942 0 N C11 0,1_ê ;0=1,1=1.3000
+PRP id 'cap141'
+PRP Manufacture 'Murata'
+PRP Part_Name 'Ceramic'
+PRP Part_Number 'GRM21BR71H104KA01K'
+PRP TKE 'X7R'
+PRP Value '0,1ìê'
+PRP Voltage '50B'
+TOP 0 -20.71160196 -1.10025942 180 N 48 34 1
+TOP 1 -22.40160112 -1.10025942 180 N 64 0 2
+#
+# CMP 48
+CMP 0 -15.36526264 -1.10025942 0 N C8 0,1_ê ;0=1,1=1.3000
+PRP id 'cap141'
+PRP Manufacture 'Murata'
+PRP Part_Name 'Ceramic'
+PRP Part_Number 'GRM21BR71H104KA01K'
+PRP TKE 'X7R'
+PRP Value '0,1ìê'
+PRP Voltage '50B'
+TOP 0 -14.52026306 -1.10025942 180 N 48 32 1
+TOP 1 -16.21026222 -1.10025942 180 N 65 0 2
+#
+# CMP 49
+CMP 0 -14.6352641 5.52851574 90 N C9 0,1_ê ;0=1,1=1.3000
+PRP id 'cap141'
+PRP Manufacture 'Murata'
+PRP Part_Name 'Ceramic'
+PRP Part_Number 'GRM21BR71H104KA01K'
+PRP TKE 'X7R'
+PRP Value '0,1ìê'
+PRP Voltage '50B'
+TOP 0 -14.6352641 6.37351532 90 N 48 31 1
+TOP 1 -14.6352641 4.68351616 90 N 76 3 2
+#
+# CMP 50
+CMP 0 -12.41877374 5.52851574 90 N C7 1_ê ;0=1,1=1.3000
+PRP id 'cap151'
+PRP Manufacture 'Murata'
+PRP Part_Name 'Ceramic'
+PRP Part_Number 'GRM21BR71H105KA12L'
+PRP TKE 'X7R'
+PRP Value '1ìê'
+PRP Voltage '50B'
+TOP 0 -12.41877374 6.37351532 90 N 48 30 1
+TOP 1 -12.41877374 4.68351616 90 N 76 2 2
+#
+# CMP 51
+CMP 0 7.67597144 5.7570497 90 N C6 1_ê ;0=1,1=1.3000
+PRP id 'cap151'
+PRP Manufacture 'Murata'
+PRP Part_Name 'Ceramic'
+PRP Part_Number 'GRM21BR71H105KA12L'
+PRP TKE 'X7R'
+PRP Value '1ìê'
+PRP Voltage '50B'
+TOP 0 7.67597144 6.60204928 90 N 48 18 1
+TOP 1 7.67597144 4.91205012 90 N 76 0 2
+#
+# CMP 52
+CMP 0 5.4259734 5.7570497 90 N C5 0,1_ê ;0=1,1=1.3000
+PRP id 'cap141'
+PRP Manufacture 'Murata'
+PRP Part_Name 'Ceramic'
+PRP Part_Number 'GRM21BR71H104KA01K'
+PRP TKE 'X7R'
+PRP Value '0,1ìê'
+PRP Voltage '50B'
+TOP 0 5.4259734 6.60204928 90 N 48 19 1
+TOP 1 5.4259734 4.91205012 90 N 76 1 2
+#
