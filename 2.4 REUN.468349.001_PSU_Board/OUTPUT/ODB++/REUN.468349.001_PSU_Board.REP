@@ -26,9 +26,13 @@ Generated File : C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\2.4 REUN.46
 
 Generated File : C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\2.4 REUN.468349.001_PSU_Board\OUTPUT\ODB++\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
 
-Generated File : C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\2.4 REUN.468349.001_PSU_Board\OUTPUT\ODB++\odb\steps\pcb\layers\bottom_paste\features
+Generated File : C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\2.4 REUN.468349.001_PSU_Board\OUTPUT\ODB++\odb\steps\pcb\layers\top_solder\features
 
-Generated File : C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\2.4 REUN.468349.001_PSU_Board\OUTPUT\ODB++\odb\steps\pcb\layers\bottom_paste\attrlist
+Generated File : C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\2.4 REUN.468349.001_PSU_Board\OUTPUT\ODB++\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\2.4 REUN.468349.001_PSU_Board\OUTPUT\ODB++\odb\steps\pcb\layers\top_paste\features
+
+Generated File : C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\2.4 REUN.468349.001_PSU_Board\OUTPUT\ODB++\odb\steps\pcb\layers\top_paste\attrlist
 
 Generated File : C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\2.4 REUN.468349.001_PSU_Board\OUTPUT\ODB++\odb\steps\pcb\layers\drill_plated_bottom-top\features
 
@@ -36,17 +40,13 @@ Generated File : C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\2.4 REUN.46
 
 Generated File : C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\2.4 REUN.468349.001_PSU_Board\OUTPUT\ODB++\odb\steps\pcb\layers\drill_plated_bottom-top\tools
 
-Generated File : C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\2.4 REUN.468349.001_PSU_Board\OUTPUT\ODB++\odb\steps\pcb\layers\top_solder\features
+Generated File : C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\2.4 REUN.468349.001_PSU_Board\OUTPUT\ODB++\odb\steps\pcb\layers\bottom_paste\features
 
-Generated File : C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\2.4 REUN.468349.001_PSU_Board\OUTPUT\ODB++\odb\steps\pcb\layers\top_solder\attrlist
+Generated File : C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\2.4 REUN.468349.001_PSU_Board\OUTPUT\ODB++\odb\steps\pcb\layers\bottom_paste\attrlist
 
 Generated File : C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\2.4 REUN.468349.001_PSU_Board\OUTPUT\ODB++\odb\steps\pcb\layers\bottom_solder\features
 
 Generated File : C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\2.4 REUN.468349.001_PSU_Board\OUTPUT\ODB++\odb\steps\pcb\layers\bottom_solder\attrlist
-
-Generated File : C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\2.4 REUN.468349.001_PSU_Board\OUTPUT\ODB++\odb\steps\pcb\layers\top_paste\features
-
-Generated File : C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\2.4 REUN.468349.001_PSU_Board\OUTPUT\ODB++\odb\steps\pcb\layers\top_paste\attrlist
 
 Generated File : C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\2.4 REUN.468349.001_PSU_Board\OUTPUT\ODB++\odb\steps\pcb\layers\mid_layer_3\features
 
@@ -56,10 +56,6 @@ Generated File : C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\2.4 REUN.46
 
 Generated File : C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\2.4 REUN.468349.001_PSU_Board\OUTPUT\ODB++\odb\steps\pcb\layers\mid_layer_2\attrlist
 
-Generated File : C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\2.4 REUN.468349.001_PSU_Board\OUTPUT\ODB++\odb\steps\pcb\layers\bottom_overlay\features
-
-Generated File : C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\2.4 REUN.468349.001_PSU_Board\OUTPUT\ODB++\odb\steps\pcb\layers\bottom_overlay\attrlist
-
 Generated File : C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\2.4 REUN.468349.001_PSU_Board\OUTPUT\ODB++\odb\steps\pcb\layers\bottom_layer_4\features
 
 Generated File : C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\2.4 REUN.468349.001_PSU_Board\OUTPUT\ODB++\odb\steps\pcb\layers\bottom_layer_4\attrlist
@@ -67,6 +63,10 @@ Generated File : C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\2.4 REUN.46
 Generated File : C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\2.4 REUN.468349.001_PSU_Board\OUTPUT\ODB++\odb\steps\pcb\layers\top_layer_1\features
 
 Generated File : C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\2.4 REUN.468349.001_PSU_Board\OUTPUT\ODB++\odb\steps\pcb\layers\top_layer_1\attrlist
+
+Generated File : C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\2.4 REUN.468349.001_PSU_Board\OUTPUT\ODB++\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\2.4 REUN.468349.001_PSU_Board\OUTPUT\ODB++\odb\steps\pcb\layers\bottom_overlay\attrlist
 
 Generated File : C:\Users\Naval\OneDrive\Документы\MedRobotics_Laser\2.4 REUN.468349.001_PSU_Board\OUTPUT\ODB++\odb\steps\pcb\layers\top_overlay\features
 

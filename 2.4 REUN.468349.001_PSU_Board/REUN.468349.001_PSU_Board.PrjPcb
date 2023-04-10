@@ -337,22 +337,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OLCMLRTR
 
-[ProjectVariant1]
-UniqueID=9477540C-71BC-4ABD-B663-E5B21AA79A7E
-Description=noRaspberry
-AllowFabrication=0
-ParameterCount=0
-VariationCount=0
-ParamVariationCount=0
-
-[ProjectVariant2]
-UniqueID=23408A26-3239-4E63-ABF3-56D1BDB90D05
-Description=withRaspberry
-AllowFabrication=0
-ParameterCount=0
-VariationCount=0
-ParamVariationCount=0
-
 [GeneratedDocument1]
 DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
@@ -362,104 +346,272 @@ DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\eda\data
+DocumentPath=OUTPUT\ODB++\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for StudentForce\Design Rule Check - REUN.468349.html
+DocumentPath=OUTPUT\ODB++\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\layers\bottom_layer\features
+DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DocumentPath=OUTPUT\ODB++\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\layers\bottom_paste\features
+DocumentPath=Project Outputs for StudentForce\Design Rule Check - REUN.468349.html
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\layers\bottom_solder\features
+DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\layers\comp_+_bot\features
+DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\layers\dielectric_1\features
+DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\layers\dielectric_2\features
+DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\layers\dielectric_3\features
+DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\features
+DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\layers\dielectric_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\features
+DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\layers\dielectric_2\features
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\layers\top_layer\features
+DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\layers\dielectric_3\features
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\layers\top_overlay\features
+DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\features
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\layers\top_paste\features
+DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\features
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\layers\top_solder\features
+DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=OUTPUT\ODB++\ODB\odb\matrix\matrix
+DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\profile
+DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=OUTPUT\ODB++\ODB\REUN.468349.001_PSU_Board_ODB_Rev_0.1_[No Variations]
+DocumentPath=OUTPUT\ODB++\odb\steps\pcb\layers\bottom_layer_4\features
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\stephdr
+DocumentPath=OUTPUT\ODB++\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
+DocumentPath=OUTPUT\ODB++\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument26]
+DocumentPath=OUTPUT\ODB++\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=OUTPUT\ODB++\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=OUTPUT\ODB++\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=OUTPUT\ODB++\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=OUTPUT\ODB++\odb\steps\pcb\layers\dielectric_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=OUTPUT\ODB++\odb\steps\pcb\layers\dielectric_3\features
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=OUTPUT\ODB++\odb\steps\pcb\layers\drill_non-plated_bottom-top\features
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=OUTPUT\ODB++\odb\steps\pcb\layers\drill_plated_bottom-top\features
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=OUTPUT\ODB++\odb\steps\pcb\layers\mid_layer_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=OUTPUT\ODB++\odb\steps\pcb\layers\mid_layer_3\features
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=OUTPUT\ODB++\odb\steps\pcb\layers\top_layer_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=OUTPUT\ODB++\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=OUTPUT\ODB++\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=OUTPUT\ODB++\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=OUTPUT\ODB++\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=OUTPUT\ODB++\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=OUTPUT\ODB++\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=OUTPUT\ODB++\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=OUTPUT\ODB++\REUN.468349.001_PSU_Board.REP
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=OUTPUT\Rezonit\Gerber\REUN.468349.001_PSU_Board_Gerber_Rev_1.2_[No Variations].EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=OUTPUT\Rezonit\Gerber\REUN.468349.001_PSU_Board_Gerber_Rev_1.2_[No Variations].G1
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=OUTPUT\Rezonit\Gerber\REUN.468349.001_PSU_Board_Gerber_Rev_1.2_[No Variations].G2
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=OUTPUT\Rezonit\Gerber\REUN.468349.001_PSU_Board_Gerber_Rev_1.2_[No Variations].GBL
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=OUTPUT\Rezonit\Gerber\REUN.468349.001_PSU_Board_Gerber_Rev_1.2_[No Variations].GBO
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=OUTPUT\Rezonit\Gerber\REUN.468349.001_PSU_Board_Gerber_Rev_1.2_[No Variations].GBS
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=OUTPUT\Rezonit\Gerber\REUN.468349.001_PSU_Board_Gerber_Rev_1.2_[No Variations].GM1
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=OUTPUT\Rezonit\Gerber\REUN.468349.001_PSU_Board_Gerber_Rev_1.2_[No Variations].GTL
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=OUTPUT\Rezonit\Gerber\REUN.468349.001_PSU_Board_Gerber_Rev_1.2_[No Variations].GTO
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=OUTPUT\Rezonit\Gerber\REUN.468349.001_PSU_Board_Gerber_Rev_1.2_[No Variations].GTS
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=OUTPUT\Rezonit\Gerber\REUN.468349.001_PSU_Board_Gerber_Rev_1.2_[No Variations].REP
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=OUTPUT\Rezonit\NC Drill\REUN.468349.001_PSU_Board_NC Drill_Rev_1.2_[No Variations].DRR
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=OUTPUT\Rezonit\NC Drill\REUN.468349.001_PSU_Board_NC Drill_Rev_1.2_[No Variations].LDP
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=OUTPUT\Rezonit\NC Drill\REUN.468349.001_PSU_Board_NC Drill_Rev_1.2_[No Variations].TXT
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=OUTPUT\ODB++\ODB\REUN.468349.001_PSU_Board_ODB_Rev_0.1_[No Variations]
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=OUTPUT\STEP 3D\REUN.468349.001_PSU_Board_STEP_3D_Rev_1.2_[No Variations].step
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=OUTPUT\ODB++\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
+DItemRevisionGUID=
+
+[GeneratedDocument66]
 DocumentPath=OUTPUT\ODB++\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\tools
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=OUTPUT\ODB++\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=OUTPUT\ODB++\odb\steps\pcb\layers\drill_plated_bottom-top\tools
 DItemRevisionGUID=
 
 [Parameter1]
 Name=BOM_Revision
-Value=Rev_0.1
+Value=Rev_1.2
 
 [Parameter2]
 Name=Developer
@@ -467,11 +619,11 @@ Value=Подлесный
 
 [Parameter3]
 Name=PCB_Revision
-Value=Rev_0.1
+Value=Rev_1.2
 
 [Parameter4]
 Name=SCH_Revision
-Value=Rev_0.1
+Value=Rev_1.2
 
 [Parameter5]
 Name=Вид_документа
