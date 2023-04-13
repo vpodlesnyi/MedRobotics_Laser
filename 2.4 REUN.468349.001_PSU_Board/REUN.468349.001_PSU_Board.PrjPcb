@@ -253,7 +253,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QBXNGDBT
 
 [Document13]
-DocumentPath=SPECIFICATION\REUN.468349.001_PSU_Board_СП.xls
+DocumentPath=SPECIFICATION\REUN.468349.001_PSU_Board_СП_v1.2.xls
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -263,14 +263,14 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document14]
-DocumentPath=PURCHASE\REUN.468349.001_PSU_Board_ВП.xls
+DocumentPath=PURCHASE\REUN.468349.001_PSU_Board_ВП_v1.2.xls
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -280,14 +280,14 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document15]
-DocumentPath=LIST OF ELEMENTS\REUN.468349.001_PSU_Board_ПЭ3.xls
+DocumentPath=LIST OF ELEMENTS\REUN.468349.001_PSU_Board_ПЭ3_v1.2.xls
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -297,7 +297,7 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
