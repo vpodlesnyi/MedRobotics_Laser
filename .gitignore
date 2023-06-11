@@ -1,0 +1,15 @@
+#Altium ignores
+**/History
+**/*/History
+/__Previews/*
+**/__Previews/*
+**/*/__Previews/*
+/*Log*/*
+**/*Log*/*
+**/Status Report.Txt
+/*Outputs*/*.drc
+/*Outputs*/*.html
+*.htm
+*.html
+*.drc
+*.WAS
