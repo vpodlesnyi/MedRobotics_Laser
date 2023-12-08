@@ -1,1 +1,12 @@
-Record=TopLevelDocument|FileName=песм.468323.001_Audio.SchDoc
+Record=TopLevelDocument|FileName=????.468323.001_Audio.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=????.468323.001_Audio.SchDoc|FileName=????.468323.001_Connectors.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=????.468323.001_Audio.SchDoc|FileName=????.468323.001_EEPROM.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=????.468323.001_Audio.SchDoc|FileName=????.468323.001_Encoder.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=????.468323.001_Audio.SchDoc|FileName=????.468323.001_INT.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=????.468323.001_Audio.SchDoc|FileName=????.468323.001_Interface.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=????.468323.001_Audio.SchDoc|FileName=????.468323.001_Laser_Interface.SchDoc|SheetNumber=12
+Record=NoMainPathDocument|SourceDocument=????.468323.001_Audio.SchDoc|FileName=????.468323.001_LED_DRV_ISO_1.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=????.468323.001_Audio.SchDoc|FileName=????.468323.001_LED_DRV_ISO_2.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=????.468323.001_Audio.SchDoc|FileName=????.468323.001_LED_DRV_TEC.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=????.468323.001_Audio.SchDoc|FileName=????.468323.001_Power.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=????.468323.001_Audio.SchDoc|FileName=????.468323.001_USB-UART.SchDoc|SheetNumber=9
